@@ -21,5 +21,8 @@
     <ClCompile Include="001-Prefix.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="002-PostFix.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
