@@ -30,5 +30,8 @@
     <ClCompile Include="004-User_Defined-Literals.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="005-Pointer_and_Array.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
