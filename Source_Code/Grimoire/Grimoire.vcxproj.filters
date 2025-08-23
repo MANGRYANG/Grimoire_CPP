@@ -48,5 +48,8 @@
     <ClCompile Include="010-Call_By_Reference.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="011-Exception.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
