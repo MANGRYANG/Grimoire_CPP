@@ -72,5 +72,8 @@
     <ClCompile Include="018-Multiple_Inheritance.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="019-Operator_Overloading.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
