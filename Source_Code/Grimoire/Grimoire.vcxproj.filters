@@ -60,5 +60,11 @@
     <ClCompile Include="014-Failed_Exception.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="015-Access_Specifier.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="016-Virtual_Function.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
