@@ -78,5 +78,8 @@
     <ClCompile Include="020-Friend_Keyword.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="021-Composition.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
