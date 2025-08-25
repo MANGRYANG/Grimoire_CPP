@@ -38,4 +38,6 @@ int main(void)
 	Sentence hello_world = hello + world;
 
 	hello_world.print_str();  // "Hello World" Ãâ·Â
+
+	return 0;
 }
