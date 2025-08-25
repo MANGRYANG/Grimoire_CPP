@@ -13,7 +13,7 @@ class Sentence
 {
 public:
 	std::string str;	// 문장을 저장할 멤버 변수
-
+	
 	Sentence(std::string s) : str(s) {}  // 생성자
 	~Sentence() {}  // 소멸자
 
