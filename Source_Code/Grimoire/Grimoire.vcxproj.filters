@@ -87,5 +87,11 @@
     <ClCompile Include="023-Aggregation_Reference.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="024-SOLID_SRP.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="025-SOLID_OCP.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
