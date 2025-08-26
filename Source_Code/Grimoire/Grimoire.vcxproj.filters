@@ -84,5 +84,8 @@
     <ClCompile Include="022-Aggregation_Pointer.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="023-Aggregation_Reference.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
