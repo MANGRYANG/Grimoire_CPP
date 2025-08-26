@@ -93,5 +93,8 @@
     <ClCompile Include="025-SOLID_OCP.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="026-SOLID_LSP.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
