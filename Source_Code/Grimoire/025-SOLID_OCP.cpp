@@ -3,6 +3,7 @@
 	SOLID 원칙 중 OCP(Open-Closed Principle) 원칙 예시 코드
 
 	OCP 원칙 :확장에는 열려 있어야 하고, 닫혀 있어야 한다.
+	OCP 원칙은 주로 추상 클래스를 활용하여 구현 가능하다.
 
 */
 
