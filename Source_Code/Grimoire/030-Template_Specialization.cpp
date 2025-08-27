@@ -14,7 +14,7 @@ T add(const T& a, const T& b)
 	return a + b;
 }
 
-// double 타입에 대해서는 덧셈 수행 후 반올림하도록 특수화
+//` double 타입에 대해서는 덧셈 수행 후 반올림하도록 특수화
 template <>
 double add<double>(const double& a, const double& b)
 {
